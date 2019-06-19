@@ -28,5 +28,3 @@ input1.send_keys(y)
 
 btn = browser.find_element_by_css_selector("button.btn")
 btn.click()
-
-
